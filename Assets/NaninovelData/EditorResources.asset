@@ -169,5 +169,5 @@ MonoBehaviour:
   - Id: Characters/73710210-681d-413e-8436-9480842472ff
     Resources:
     - name: side
-      pathPrefix: Characters/Faust
+      pathPrefix: Characters/FAUST
       guid: d800aca4af935e840bdf0cb5e7ea244b

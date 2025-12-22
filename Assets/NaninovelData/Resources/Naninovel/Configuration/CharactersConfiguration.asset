@@ -66,10 +66,10 @@ MonoBehaviour:
     Poses: []
   Metadata:
     ids:
-    - Moira
-    - Faust
-    - Hina
-    - Aria
+    - MOIRA
+    - FAUST
+    - HINA
+    - ARIA
     - ???
     metas:
     - Implementation: Naninovel.SpriteCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
@@ -156,7 +156,7 @@ MonoBehaviour:
       MessageSound: 
       MessageSoundPlayback: 0
       VoiceSource: {fileID: 0}
-      LinkedPrinter: 
+      LinkedPrinter: Wide
       Poses: []
     - Implementation: Naninovel.SpriteCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null

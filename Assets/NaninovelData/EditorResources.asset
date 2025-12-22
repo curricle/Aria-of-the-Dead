@@ -151,6 +151,23 @@ MonoBehaviour:
       guid: b3b9313ef45aebb4cb59af4eb4c4ec5c
   - Id: Characters/8081ae60-d59e-4fd4-8eec-6eb6ea1eba9e
     Resources:
-    - name: 
+    - name: neutral
       pathPrefix: Characters/Moira
-      guid: 
+      guid: 65603bc5d9be62648bcd0fe3e816f259
+    - name: happy
+      pathPrefix: Characters/Moira
+      guid: 2ad8d47baccc92645abb65984405c872
+    - name: angry
+      pathPrefix: Characters/Moira
+      guid: 38801fbe65e595544be90386a0433c5c
+    - name: colored
+      pathPrefix: Characters/Moira
+      guid: 3ca26bfdc40f8e44bb86a3e07c885f58
+    - name: confused
+      pathPrefix: Characters/Moira
+      guid: 0ad46dc9885079442bee27804ce7ac47
+  - Id: Characters/73710210-681d-413e-8436-9480842472ff
+    Resources:
+    - name: side
+      pathPrefix: Characters/Faust
+      guid: d800aca4af935e840bdf0cb5e7ea244b

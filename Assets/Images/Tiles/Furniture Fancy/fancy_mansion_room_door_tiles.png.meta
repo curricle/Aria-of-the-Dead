@@ -694,7 +694,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_27
       rect:
         serializedVersion: 2
-        x: 192
+        x: 96
         y: 256
         width: 32
         height: 32
@@ -716,7 +716,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_28
       rect:
         serializedVersion: 2
-        x: 224
+        x: 192
         y: 256
         width: 32
         height: 32
@@ -738,7 +738,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_29
       rect:
         serializedVersion: 2
-        x: 288
+        x: 224
         y: 256
         width: 32
         height: 32
@@ -760,7 +760,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_30
       rect:
         serializedVersion: 2
-        x: 416
+        x: 288
         y: 256
         width: 32
         height: 32
@@ -782,7 +782,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_31
       rect:
         serializedVersion: 2
-        x: 448
+        x: 416
         y: 256
         width: 32
         height: 32
@@ -804,7 +804,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_32
       rect:
         serializedVersion: 2
-        x: 480
+        x: 448
         y: 256
         width: 32
         height: 32
@@ -826,7 +826,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_33
       rect:
         serializedVersion: 2
-        x: 512
+        x: 480
         y: 256
         width: 32
         height: 32
@@ -848,8 +848,8 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_34
       rect:
         serializedVersion: 2
-        x: 0
-        y: 224
+        x: 512
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -870,7 +870,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_35
       rect:
         serializedVersion: 2
-        x: 96
+        x: 0
         y: 224
         width: 32
         height: 32
@@ -892,7 +892,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_36
       rect:
         serializedVersion: 2
-        x: 128
+        x: 96
         y: 224
         width: 32
         height: 32
@@ -914,7 +914,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_37
       rect:
         serializedVersion: 2
-        x: 160
+        x: 128
         y: 224
         width: 32
         height: 32
@@ -926,7 +926,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64f7eb5fcbf665147a1e7bba010425ca
+      spriteID: 56497f05bef213a4ebddabc9bc686797
       internalID: 109097433
       vertices: []
       indices: 
@@ -936,7 +936,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_38
       rect:
         serializedVersion: 2
-        x: 416
+        x: 160
         y: 224
         width: 32
         height: 32
@@ -948,7 +948,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42824e3d21e47f94893c99b7d16c0537
+      spriteID: 18bb9626e3b43de45a1e99e3aedf3e29
       internalID: 2091825539
       vertices: []
       indices: 
@@ -958,7 +958,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_39
       rect:
         serializedVersion: 2
-        x: 448
+        x: 416
         y: 224
         width: 32
         height: 32
@@ -970,7 +970,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fc93923090fcac48bca41a962f2c5ff
+      spriteID: 75ee5f2fdbb61cb469a0c3aeb189c8aa
       internalID: 1160605936
       vertices: []
       indices: 
@@ -980,7 +980,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_40
       rect:
         serializedVersion: 2
-        x: 480
+        x: 448
         y: 224
         width: 32
         height: 32
@@ -992,7 +992,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63e325a78cd352646b98fb3b9813d663
+      spriteID: 58134e3692e63ce4abf2500b0fa3298b
       internalID: -257292511
       vertices: []
       indices: 
@@ -1002,6 +1002,28 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_41
       rect:
         serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8260f58ec4547804d9490640c3a8ea11
+      internalID: -682133866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_mansion_room_door_tiles_42
+      rect:
+        serializedVersion: 2
         x: 512
         y: 224
         width: 32
@@ -1014,29 +1036,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fd6edb8ec78ad444a433ad6420b0264
-      internalID: -682133866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_42
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5ed39e0a50ef3f41977208228201d09
+      spriteID: 6dd0d5ecc73f11a4fb26b881cfc41e2e
       internalID: 823399
       vertices: []
       indices: 
@@ -1046,7 +1046,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_43
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 192
         width: 32
         height: 32
@@ -1058,7 +1058,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72aa03508359f0a4396f32c998260ce1
+      spriteID: d4642fd5083d9684ea0e0afcd510b5dd
       internalID: -855207571
       vertices: []
       indices: 
@@ -1068,7 +1068,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_44
       rect:
         serializedVersion: 2
-        x: 64
+        x: 32
         y: 192
         width: 32
         height: 32
@@ -1080,7 +1080,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80f2dbf55cce6f9438cd4973d27feb66
+      spriteID: 0ce1fa2dc10eeb84daf7bca79fb7c008
       internalID: -373314705
       vertices: []
       indices: 
@@ -1090,7 +1090,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_45
       rect:
         serializedVersion: 2
-        x: 96
+        x: 64
         y: 192
         width: 32
         height: 32
@@ -1102,7 +1102,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76c6b9741bd078649a741a4b9bafde5b
+      spriteID: 8a438d98319082e43a1f1b8387b97f9a
       internalID: -1532600810
       vertices: []
       indices: 
@@ -1112,7 +1112,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_46
       rect:
         serializedVersion: 2
-        x: 160
+        x: 96
         y: 192
         width: 32
         height: 32
@@ -1124,7 +1124,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fdcba94fa5ec8a4697ce10812c7e352
+      spriteID: 214678e865a25c344a636b2b8032b432
       internalID: -1339231964
       vertices: []
       indices: 
@@ -1134,7 +1134,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_47
       rect:
         serializedVersion: 2
-        x: 192
+        x: 160
         y: 192
         width: 32
         height: 32
@@ -1146,7 +1146,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d132ff5f09754fc4dacd6df6246e4d26
+      spriteID: 1cc6108f385f07c48a06cad4a5ab4adb
       internalID: 1171765850
       vertices: []
       indices: 
@@ -1156,7 +1156,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_48
       rect:
         serializedVersion: 2
-        x: 256
+        x: 192
         y: 192
         width: 32
         height: 32
@@ -1168,7 +1168,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3593aaedebf7bfe4583da743d4c1d479
+      spriteID: 4627b66a57af91f47a0bb330a94a3c23
       internalID: -303213059
       vertices: []
       indices: 
@@ -1178,7 +1178,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_49
       rect:
         serializedVersion: 2
-        x: 288
+        x: 256
         y: 192
         width: 32
         height: 32
@@ -1190,7 +1190,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67fc810fb4429eb47935fa026792c790
+      spriteID: e3ef120bb9094fe4996837d7df0c7cd4
       internalID: -1679802984
       vertices: []
       indices: 
@@ -1200,7 +1200,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_50
       rect:
         serializedVersion: 2
-        x: 320
+        x: 288
         y: 192
         width: 32
         height: 32
@@ -1212,7 +1212,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e927e1a1e95a2f54e827e80d6025a581
+      spriteID: 01504eaf28151e84ea801d5eeb730f6f
       internalID: 823428280
       vertices: []
       indices: 
@@ -1222,7 +1222,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_51
       rect:
         serializedVersion: 2
-        x: 352
+        x: 320
         y: 192
         width: 32
         height: 32
@@ -1234,7 +1234,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cc4e9d4c61afc6458b8e2bf6fb3a5a3
+      spriteID: 88a00179e7208174ca0d924a120b69e9
       internalID: -1483825420
       vertices: []
       indices: 
@@ -1244,7 +1244,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_52
       rect:
         serializedVersion: 2
-        x: 384
+        x: 352
         y: 192
         width: 32
         height: 32
@@ -1256,7 +1256,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c489871c1d3c57f4bb970432206b6a97
+      spriteID: cf4553076c9fc754688162ec9204551c
       internalID: 1076965224
       vertices: []
       indices: 
@@ -1266,7 +1266,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_53
       rect:
         serializedVersion: 2
-        x: 416
+        x: 384
         y: 192
         width: 32
         height: 32
@@ -1278,7 +1278,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bcb07619196ad14d8fb81de3474f83c
+      spriteID: a4d6b6b50ad574e468e05a932bd931b1
       internalID: -828626757
       vertices: []
       indices: 
@@ -1288,7 +1288,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_54
       rect:
         serializedVersion: 2
-        x: 448
+        x: 416
         y: 192
         width: 32
         height: 32
@@ -1300,7 +1300,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97e231eac347bbe459a6d7ebfe52fbbc
+      spriteID: 4ae5519f4152938428f1ce5d8907caba
       internalID: 1923216255
       vertices: []
       indices: 
@@ -1310,7 +1310,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_55
       rect:
         serializedVersion: 2
-        x: 480
+        x: 448
         y: 192
         width: 32
         height: 32
@@ -1322,7 +1322,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b6fdeac350a90f40a83f04a53eb98fa
+      spriteID: 36bedac9019f7d94a995ab80c1e81a91
       internalID: 162266699
       vertices: []
       indices: 
@@ -1332,7 +1332,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_56
       rect:
         serializedVersion: 2
-        x: 512
+        x: 480
         y: 192
         width: 32
         height: 32
@@ -1344,7 +1344,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39744d62645662a44995735c037fcaf1
+      spriteID: 650856649074c0444b68e7c2e32c22d4
       internalID: -642415003
       vertices: []
       indices: 
@@ -1354,6 +1354,28 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_57
       rect:
         serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637ffafd72ffa9b4a80bdac0cacf8c8a
+      internalID: -1719201212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_mansion_room_door_tiles_58
+      rect:
+        serializedVersion: 2
         x: 544
         y: 192
         width: 32
@@ -1366,29 +1388,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 861aa4a38d7e3cc48b7fe39fc8c16226
-      internalID: -1719201212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_58
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 167463c12bae32d4fbc3ba83a9efaac9
+      spriteID: db7181d265f87f74aa61ad9c090bf948
       internalID: -919149082
       vertices: []
       indices: 
@@ -1398,7 +1398,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_59
       rect:
         serializedVersion: 2
-        x: 96
+        x: 32
         y: 160
         width: 32
         height: 32
@@ -1410,7 +1410,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 745dc25dfd6fbae4189c1ddec9ccd998
+      spriteID: 53b30d9071f3d0d4c9093f332db34c02
       internalID: 728969965
       vertices: []
       indices: 
@@ -1420,7 +1420,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_60
       rect:
         serializedVersion: 2
-        x: 128
+        x: 96
         y: 160
         width: 32
         height: 32
@@ -1432,7 +1432,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fba1f6f05e31e4b479764b25af179eee
+      spriteID: 3d5cb47b875a52141b46c39cc44e825b
       internalID: 1041890767
       vertices: []
       indices: 
@@ -1442,7 +1442,7 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_61
       rect:
         serializedVersion: 2
-        x: 160
+        x: 128
         y: 160
         width: 32
         height: 32
@@ -1454,7 +1454,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e0df97e1f6d2364991ec7d16f801193
+      spriteID: f43f72f41c786db41a19681a2ce2210a
       internalID: -1165860659
       vertices: []
       indices: 
@@ -1464,6 +1464,28 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_62
       rect:
         serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2480d953bb3712b479c7c277827eaced
+      internalID: 887921391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_mansion_room_door_tiles_63
+      rect:
+        serializedVersion: 2
         x: 192
         y: 160
         width: 32
@@ -1476,14 +1498,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5156e1918a634ba4e9e62ad60d434a5b
-      internalID: 887921391
+      spriteID: c85877e493258a04fbef413c414a15ce
+      internalID: 1176196250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_63
+      name: fancy_mansion_room_door_tiles_64
       rect:
         serializedVersion: 2
         x: 256
@@ -1498,14 +1520,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62b63839f8a10e548b5b8b94bc6dd568
-      internalID: 1176196250
+      spriteID: 01b8984482e821949a6f1ab2f2ff3a6e
+      internalID: -1392345695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_64
+      name: fancy_mansion_room_door_tiles_65
       rect:
         serializedVersion: 2
         x: 288
@@ -1520,14 +1542,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81124df25e176794a83bf9a56b8d4e6a
-      internalID: -1392345695
+      spriteID: 967dd02b2ee445a4fa2969d58d2542d0
+      internalID: -2017484110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_65
+      name: fancy_mansion_room_door_tiles_66
       rect:
         serializedVersion: 2
         x: 320
@@ -1542,14 +1564,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ff050bed4974434f9c6dee1030c8be6
-      internalID: -2017484110
+      spriteID: c5c3235cf1c001f4ea2653ce23af042e
+      internalID: -1283622868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_66
+      name: fancy_mansion_room_door_tiles_67
       rect:
         serializedVersion: 2
         x: 352
@@ -1564,14 +1586,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05965da9932d8794a97b61d4f6c4c710
-      internalID: -1283622868
+      spriteID: e2f0e643e01bda441a5d4b59c15e6ae6
+      internalID: -1632661116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_67
+      name: fancy_mansion_room_door_tiles_68
       rect:
         serializedVersion: 2
         x: 384
@@ -1586,14 +1608,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59aeb27dddb41be4c884431e419d0777
-      internalID: -1632661116
+      spriteID: 781fa726e29b7114e96680fb03f94ece
+      internalID: 364254118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_68
+      name: fancy_mansion_room_door_tiles_69
       rect:
         serializedVersion: 2
         x: 416
@@ -1608,14 +1630,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bed0a00d25b2f0249a7bf2ef6d2f3f18
-      internalID: 364254118
+      spriteID: 4b1e8fbf62cceeb4099ce293f36f2e72
+      internalID: 1793697868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_69
+      name: fancy_mansion_room_door_tiles_70
       rect:
         serializedVersion: 2
         x: 448
@@ -1630,14 +1652,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5aadfc54769dc54428fdfd56095d01fb
-      internalID: 1793697868
+      spriteID: adff386bc39b1a64bb3617e145f0dbd5
+      internalID: -1540552384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_70
+      name: fancy_mansion_room_door_tiles_71
       rect:
         serializedVersion: 2
         x: 480
@@ -1652,14 +1674,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec0163ed2fae9864894c6b7bc70d05f9
-      internalID: -1540552384
+      spriteID: c22bebfb688f8aa4abec68cfb3848cf5
+      internalID: -2141373438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_71
+      name: fancy_mansion_room_door_tiles_72
       rect:
         serializedVersion: 2
         x: 512
@@ -1674,14 +1696,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb364384db7a2b44385c9a513b914128
-      internalID: -2141373438
+      spriteID: 4125008d541cc2049a00a6c8d09da10c
+      internalID: 1684134788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_72
+      name: fancy_mansion_room_door_tiles_73
       rect:
         serializedVersion: 2
         x: 544
@@ -1696,14 +1718,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71ebdd6026063574e8989905bf702c13
-      internalID: 1684134788
+      spriteID: 953a38a665e798441a562799a37a70ce
+      internalID: -1321765612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_73
+      name: fancy_mansion_room_door_tiles_74
       rect:
         serializedVersion: 2
         x: 32
@@ -1718,14 +1740,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e93c39b16cec5bb4e9796f712d0b5758
-      internalID: -1321765612
+      spriteID: c1b7017f1557a24439a68f172bae24c8
+      internalID: 1524261412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_74
+      name: fancy_mansion_room_door_tiles_75
       rect:
         serializedVersion: 2
         x: 96
@@ -1740,14 +1762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4452059ab9cada46a49a4afcc68a873
-      internalID: 1524261412
+      spriteID: 901660a1598033a4786a55a5bd136271
+      internalID: 1924333512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_75
+      name: fancy_mansion_room_door_tiles_76
       rect:
         serializedVersion: 2
         x: 128
@@ -1762,14 +1784,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f3dfa2619e02bd43b29009be4922420
-      internalID: 1924333512
+      spriteID: cb21e949e68b2ae47ad91127d3a595a2
+      internalID: 992329336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_76
+      name: fancy_mansion_room_door_tiles_77
       rect:
         serializedVersion: 2
         x: 352
@@ -1784,14 +1806,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80ef2fb9d6347d0409c350bf5eb61252
-      internalID: 992329336
+      spriteID: 016ec2e5ec22ed242a4156d51a89370e
+      internalID: 132776323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_77
+      name: fancy_mansion_room_door_tiles_78
       rect:
         serializedVersion: 2
         x: 384
@@ -1806,14 +1828,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98fa1369bec72b64fb4b3c3f66f4e864
-      internalID: 132776323
+      spriteID: 86009d424548c6b468936ba568557e32
+      internalID: -1388846029
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_78
+      name: fancy_mansion_room_door_tiles_79
       rect:
         serializedVersion: 2
         x: 448
@@ -1828,14 +1850,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d48169205fddf8e43b77852606b0ab61
-      internalID: -1388846029
+      spriteID: 1b01833f4b3890a4dbf891400d5c50ee
+      internalID: -1524989186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_79
+      name: fancy_mansion_room_door_tiles_80
       rect:
         serializedVersion: 2
         x: 480
@@ -1850,14 +1872,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8023243ccd3dede4090a5d4aadde809e
-      internalID: -1524989186
+      spriteID: 1aa3e44341cd4c04cac8adb07fb56fbe
+      internalID: 1999301860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_80
+      name: fancy_mansion_room_door_tiles_81
       rect:
         serializedVersion: 2
         x: 512
@@ -1872,14 +1894,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe5d2cb3dae5dab49a5703db7f38ede0
-      internalID: 1999301860
+      spriteID: f74d4c1b95f3cd846b5dad9e488f1567
+      internalID: -539314023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_81
+      name: fancy_mansion_room_door_tiles_82
       rect:
         serializedVersion: 2
         x: 544
@@ -1894,14 +1916,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28937249f99d6c84c901488a0a216576
-      internalID: -539314023
+      spriteID: efc1e266dc5c9c14e83ac919062a20d6
+      internalID: -295840965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_82
+      name: fancy_mansion_room_door_tiles_83
       rect:
         serializedVersion: 2
         x: 64
@@ -1916,14 +1938,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f87f3ca53c9be69419d9f2286e33f993
-      internalID: -295840965
+      spriteID: 6b27d43d7f1f8c2438f61d9707210cb8
+      internalID: -1459632531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_83
+      name: fancy_mansion_room_door_tiles_84
       rect:
         serializedVersion: 2
         x: 128
@@ -1938,14 +1960,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97e17af6d7a8eff48b2228d3d20d30b2
-      internalID: -1459632531
+      spriteID: b2365c8fea584cd4d8e1d2617c660ad0
+      internalID: -562803895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_84
+      name: fancy_mansion_room_door_tiles_85
       rect:
         serializedVersion: 2
         x: 160
@@ -1960,29 +1982,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 056b681ab0bbfe741b75165afdcd205f
-      internalID: -562803895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_85
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 796ba0b6066d1f148a23cc2619673b9e
+      spriteID: 2694af6420e78d04bbc943b3428e68dc
       internalID: -346564438
       vertices: []
       indices: 
@@ -1992,6 +1992,28 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_86
       rect:
         serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2b68701f3955145be6745d0603c96c
+      internalID: 956115603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_mansion_room_door_tiles_87
+      rect:
+        serializedVersion: 2
         x: 384
         y: 96
         width: 32
@@ -2004,29 +2026,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fb93a4c7e89bc34591c4adc64eb7cae
-      internalID: 956115603
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_87
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddf39100f129abc42a68800a684d606d
+      spriteID: 01619ff55e2534c4a93b627c6c0a3978
       internalID: -1709556006
       vertices: []
       indices: 
@@ -2036,6 +2036,28 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_88
       rect:
         serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf4b4bce7844848a44e64aa5a341d6
+      internalID: -1344536434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_mansion_room_door_tiles_89
+      rect:
+        serializedVersion: 2
         x: 32
         y: 64
         width: 32
@@ -2048,14 +2070,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb101f350030fed4c91bd9d3103e4f82
-      internalID: -1344536434
+      spriteID: c60ced19b70e09b4bbdd9f942aef8afe
+      internalID: 932244651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_89
+      name: fancy_mansion_room_door_tiles_90
       rect:
         serializedVersion: 2
         x: 64
@@ -2070,14 +2092,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fec0b7d5458667a42b9c5a6ae4edd6b5
-      internalID: 932244651
+      spriteID: 393c1e89c76c73440bf379ef374454e1
+      internalID: 2041500102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_90
+      name: fancy_mansion_room_door_tiles_91
       rect:
         serializedVersion: 2
         x: 96
@@ -2092,14 +2114,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7454ac51d00c00a478ffb4a438ecb90c
-      internalID: 2041500102
+      spriteID: 55e7434519f531c45a4273debce9817f
+      internalID: 564196850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_91
+      name: fancy_mansion_room_door_tiles_92
       rect:
         serializedVersion: 2
         x: 128
@@ -2114,14 +2136,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e57f02dfe1c38cb41b999d307c988392
-      internalID: 564196850
+      spriteID: 71eb629ff4263bc4dbedb60e48612b8c
+      internalID: -434471237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_92
+      name: fancy_mansion_room_door_tiles_93
       rect:
         serializedVersion: 2
         x: 192
@@ -2136,14 +2158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35eac9954f35b384d9a37513989dc20c
-      internalID: -434471237
+      spriteID: 082bbaa72f49d6d448ea3313905d0ba3
+      internalID: -772893937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_93
+      name: fancy_mansion_room_door_tiles_94
       rect:
         serializedVersion: 2
         x: 224
@@ -2158,14 +2180,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bfe396ab66f0dd4bbeb6c3fb9774ba2
-      internalID: -772893937
+      spriteID: 8c61448300515074ebd0b4f829d61daa
+      internalID: 1078847869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_94
+      name: fancy_mansion_room_door_tiles_95
       rect:
         serializedVersion: 2
         x: 256
@@ -2180,14 +2202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47da5f40c12993c4f97c96bd6aec4b3f
-      internalID: 1078847869
+      spriteID: 686bdcd1537548d4bb652801eff305ab
+      internalID: 712776865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_95
+      name: fancy_mansion_room_door_tiles_96
       rect:
         serializedVersion: 2
         x: 288
@@ -2202,14 +2224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2e7b4e7bb009604d986e5e35a3b0d9a
-      internalID: 712776865
+      spriteID: 5637b1712f190bd40ab977d20b1da17a
+      internalID: 987647340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_96
+      name: fancy_mansion_room_door_tiles_97
       rect:
         serializedVersion: 2
         x: 320
@@ -2224,14 +2246,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a93e69fbdfdd364c902be9fc5c782c8
-      internalID: 987647340
+      spriteID: db279bf47eb092344b636ad7d2ee2462
+      internalID: 1043100478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_97
+      name: fancy_mansion_room_door_tiles_98
       rect:
         serializedVersion: 2
         x: 352
@@ -2246,14 +2268,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc0069a5dc333bc40b8c2ee9c94065bc
-      internalID: 1043100478
+      spriteID: 9753fbc4158187948b97b9017a66af90
+      internalID: -538974238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_98
+      name: fancy_mansion_room_door_tiles_99
       rect:
         serializedVersion: 2
         x: 384
@@ -2268,14 +2290,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5791e8d40127114381ec41de46b41f0
-      internalID: -538974238
+      spriteID: b708ba3109826664fb531f1baca57ec5
+      internalID: -2140151346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_99
+      name: fancy_mansion_room_door_tiles_100
       rect:
         serializedVersion: 2
         x: 416
@@ -2290,14 +2312,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a16f73f5aac4b742be765ae71014a51
-      internalID: -2140151346
+      spriteID: 345dbf1d5b822924298d81b60a501644
+      internalID: 1587040943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_100
+      name: fancy_mansion_room_door_tiles_101
       rect:
         serializedVersion: 2
         x: 448
@@ -2312,14 +2334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6dfde8d3785a7040994af732d3bfec8
-      internalID: 1587040943
+      spriteID: 6a567eb38eaa1534ea00e94e5a82b0e0
+      internalID: -1594460155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_101
+      name: fancy_mansion_room_door_tiles_102
       rect:
         serializedVersion: 2
         x: 480
@@ -2334,14 +2356,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 264ad79e1cf1bc941b70538e37fe3aa3
-      internalID: -1594460155
+      spriteID: 10795b5542e2bcd4f930fcdd8a02e644
+      internalID: -527843696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_102
+      name: fancy_mansion_room_door_tiles_103
       rect:
         serializedVersion: 2
         x: 512
@@ -2356,14 +2378,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f0c45fd28a27a242aee532729d9a32a
-      internalID: -527843696
+      spriteID: 16c89f0e4611dd841b8274e6887ea220
+      internalID: -1419460590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_103
+      name: fancy_mansion_room_door_tiles_104
       rect:
         serializedVersion: 2
         x: 0
@@ -2378,14 +2400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa0e84f6fab561e4694d577c05d13256
-      internalID: -1419460590
+      spriteID: 3faa94e26720e6641a0fdd7ae2496b8a
+      internalID: 914576416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_104
+      name: fancy_mansion_room_door_tiles_105
       rect:
         serializedVersion: 2
         x: 32
@@ -2400,14 +2422,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3165fd8b9a801554490edd57a8c9f670
-      internalID: 914576416
+      spriteID: 48ef921d5d97f0a49b738218a6344a07
+      internalID: 717162820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_105
+      name: fancy_mansion_room_door_tiles_106
       rect:
         serializedVersion: 2
         x: 64
@@ -2422,14 +2444,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86b37c13120efd44c9ed4d8e174fe67f
-      internalID: 717162820
+      spriteID: 5863d1c1e6f9fee41ab203f735dc8b43
+      internalID: 963941334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_106
+      name: fancy_mansion_room_door_tiles_107
       rect:
         serializedVersion: 2
         x: 96
@@ -2444,14 +2466,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ebc2accdebc8fc41b8c93a25f24e686
-      internalID: 963941334
+      spriteID: d29874ed4f84bcf4794cb094284d776f
+      internalID: 241368991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_107
+      name: fancy_mansion_room_door_tiles_108
       rect:
         serializedVersion: 2
         x: 128
@@ -2466,14 +2488,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5954f8cdaa86c2147bdef662734becec
-      internalID: 241368991
+      spriteID: b9e44af1d374627478e4e4129bb3159f
+      internalID: 1123171156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_108
+      name: fancy_mansion_room_door_tiles_109
       rect:
         serializedVersion: 2
         x: 192
@@ -2488,14 +2510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6c1fb2e3aa6a9743bc80d3bec88b020
-      internalID: 1123171156
+      spriteID: 4c8c79e14d5489745a4cc848ebb2841f
+      internalID: -642506028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_109
+      name: fancy_mansion_room_door_tiles_110
       rect:
         serializedVersion: 2
         x: 224
@@ -2510,14 +2532,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d5793c3961a4e54e83ed3fcc7200a14
-      internalID: -642506028
+      spriteID: b55c5e84807332f47adb757e3830fc9c
+      internalID: 129176079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_110
+      name: fancy_mansion_room_door_tiles_111
       rect:
         serializedVersion: 2
         x: 256
@@ -2532,14 +2554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a208154c44b8af54e8d78006f23eeae8
-      internalID: 129176079
+      spriteID: 713afa500adf47f449774c0123651cb4
+      internalID: -186720018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_111
+      name: fancy_mansion_room_door_tiles_112
       rect:
         serializedVersion: 2
         x: 288
@@ -2554,14 +2576,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a134bd7f34c842f4cab3fced35749a82
-      internalID: -186720018
+      spriteID: c2b0a916f5077a14fbdba42521a19b68
+      internalID: -1020806517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_112
+      name: fancy_mansion_room_door_tiles_113
       rect:
         serializedVersion: 2
         x: 320
@@ -2576,14 +2598,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 794144d54c45f1141b93d86216e616e6
-      internalID: -1020806517
+      spriteID: 5c4a51847c72b7f4b99660cd9f475297
+      internalID: 2050799584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_113
+      name: fancy_mansion_room_door_tiles_114
       rect:
         serializedVersion: 2
         x: 352
@@ -2598,14 +2620,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34a232325b859ae4d849be4cb1dd3ebc
-      internalID: 2050799584
+      spriteID: 6c2f2afc98988ff4fbc077676b4e417b
+      internalID: 832203457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_114
+      name: fancy_mansion_room_door_tiles_115
       rect:
         serializedVersion: 2
         x: 384
@@ -2620,14 +2642,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4af4c70a9bcf81040b518cc64abfcc18
-      internalID: 832203457
+      spriteID: 651330532c9cf704b8c6f1f2170c4a25
+      internalID: 1362755394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_115
+      name: fancy_mansion_room_door_tiles_116
       rect:
         serializedVersion: 2
         x: 416
@@ -2642,14 +2664,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2454ededf2eb611448e182fc3b0b4728
-      internalID: 1362755394
+      spriteID: 8a40f48d7cfa4d046ab2e8ecb66beec6
+      internalID: -1277529287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_116
+      name: fancy_mansion_room_door_tiles_117
       rect:
         serializedVersion: 2
         x: 448
@@ -2664,14 +2686,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 818c7c55869d0b742aa65ad133509f09
-      internalID: -1277529287
+      spriteID: a00ca91733917224c82e87c1c4e31391
+      internalID: -1199542530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_117
+      name: fancy_mansion_room_door_tiles_118
       rect:
         serializedVersion: 2
         x: 480
@@ -2686,14 +2708,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a43ad7966de47bf4fb7e7b8f104e265d
-      internalID: -1199542530
+      spriteID: 659c2c64300314f4391816048bbb414f
+      internalID: 2013778335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_118
+      name: fancy_mansion_room_door_tiles_119
       rect:
         serializedVersion: 2
         x: 512
@@ -2708,14 +2730,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a09e08f787f81a44cbf6ca1392f5fd53
-      internalID: 2013778335
+      spriteID: 7cb3b20f05bc3894ba15ffa2755cadd3
+      internalID: 2067399891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_119
+      name: fancy_mansion_room_door_tiles_120
       rect:
         serializedVersion: 2
         x: 32
@@ -2730,14 +2752,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83df57a5eab475f4d8beb5b648b5bbcd
-      internalID: 2067399891
+      spriteID: 77749a7ff096bf04690f45e39b4b841a
+      internalID: -2014474843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_120
+      name: fancy_mansion_room_door_tiles_121
       rect:
         serializedVersion: 2
         x: 96
@@ -2752,14 +2774,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb5b0d9aef8f30c4b8a196f027837a97
-      internalID: -2014474843
+      spriteID: b59ba0812d1482347853fa94a3b28a6a
+      internalID: -1008447460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_121
+      name: fancy_mansion_room_door_tiles_122
       rect:
         serializedVersion: 2
         x: 256
@@ -2774,14 +2796,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15ed5939bda78364284c276708379b23
-      internalID: -1008447460
+      spriteID: c796c7b734ea44643b7846ba2a939435
+      internalID: 336760496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_122
+      name: fancy_mansion_room_door_tiles_123
       rect:
         serializedVersion: 2
         x: 320
@@ -2796,14 +2818,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a69c7a22799245b4baa84c0c226b2cfb
-      internalID: 336760496
+      spriteID: b7dcf18a243200641816333ffd12e77b
+      internalID: 2092979493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_123
+      name: fancy_mansion_room_door_tiles_124
       rect:
         serializedVersion: 2
         x: 384
@@ -2818,14 +2840,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 663843c5c34c6744b82896e084de46ca
-      internalID: 2092979493
+      spriteID: 09b1156dd139903458c790fd600f5f57
+      internalID: 1577613101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_124
+      name: fancy_mansion_room_door_tiles_125
       rect:
         serializedVersion: 2
         x: 448
@@ -2840,8 +2862,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d18110561a9c71543b2105f52e6d0446
-      internalID: 1577613101
+      spriteID: e84b1a3652c45c74ab2198990f6ad83e
+      internalID: 1353976345
       vertices: []
       indices: 
       edges: []
@@ -2892,6 +2914,7 @@ TextureImporter:
       fancy_mansion_room_door_tiles_122: 336760496
       fancy_mansion_room_door_tiles_123: 2092979493
       fancy_mansion_room_door_tiles_124: 1577613101
+      fancy_mansion_room_door_tiles_125: 1353976345
       fancy_mansion_room_door_tiles_13: 1381329908
       fancy_mansion_room_door_tiles_14: 2099464320
       fancy_mansion_room_door_tiles_15: 655973107

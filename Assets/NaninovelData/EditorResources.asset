@@ -171,3 +171,20 @@ MonoBehaviour:
     - name: side
       pathPrefix: Characters/FAUST
       guid: d800aca4af935e840bdf0cb5e7ea244b
+  - Id: Backgrounds/6ae43ffd-99dc-4e0d-a306-300b7fbc3db8
+    Resources:
+    - name: CG/Opening
+      pathPrefix: Backgrounds/MainBackground
+      guid: 69089f62895ea34408b6b8b3456c1ce7
+  - Id: Backgrounds/ccb680f5-6331-47aa-85a8-ef4bc3c72425
+    Resources:
+    - name: Bedroom
+      pathPrefix: Backgrounds/SceneBackgrounds
+      guid: 7a9e9ff9672060740b3602a75d8f12f7
+  - Id: CharacterAvatars
+    Resources:
+    - name: side
+      pathPrefix: CharacterAvatars
+      guid: d800aca4af935e840bdf0cb5e7ea244b
+  - Id: Unlockables
+    Resources: []

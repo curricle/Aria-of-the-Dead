@@ -168,9 +168,9 @@ MonoBehaviour:
       guid: 0ad46dc9885079442bee27804ce7ac47
   - Id: Characters/73710210-681d-413e-8436-9480842472ff
     Resources:
-    - name: side
+    - name: default
       pathPrefix: Characters/FAUST
-      guid: d800aca4af935e840bdf0cb5e7ea244b
+      guid: 705fc55dec796b7419c2bd44f0aac4a2
   - Id: Backgrounds/6ae43ffd-99dc-4e0d-a306-300b7fbc3db8
     Resources:
     - name: CG/Opening

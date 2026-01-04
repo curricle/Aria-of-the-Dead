@@ -1,0 +1,39 @@
+# Start
+@novel
+; black bg
+
+@load scene:DressingRoom
+
+Maybe this wasn’t the right room to start with.
+Aside from the mess attributable to the rest of the house, this room looks mostly untouched. It hasn’t come through here yet. 
+At least, that is your assessment.
+You need to get through here quickly. 
+Evaluation: This place was bigger than it appeared.
+Conclusion: It’s a pain. The scratching is distant but it’s there. 
+
+Waiting, watching. Prowling. 
+@adventure
+
+# End
+; SFX: Howling, thump thump.
+
+MOIRA: …
+MOIRA: Tch. 
+MOIRA: We’re going to have to keep going.
+MOIRA: It must’ve dropped the tube somewhere, and we’re just missing it.
+MOIRA: We can’t leave without it.
+FAUST: I mean.
+FAUST: You can.
+FAUST: You can say you did what you could.
+MOIRA: You know better than anyone else that I cannot do that.
+MOIRA: I need to retrieve the asset and I need to return it.
+MOIRA: I could be extracted half-dead but if I have the asset, it’ll be considered a job well done.
+FAUST: …
+FAUST: This is really what I hate about you, Moimoi.
+MOIRA: It is what it is.
+FAUST: That’s it?
+MOIRA: Let’s move onto the next room.
+MOIRA: I can’t hear It anymore. 
+
+@goto Hallway.Start
+@stop

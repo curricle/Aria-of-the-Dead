@@ -1,0 +1,18 @@
+# 1
+@novel
+At some point, you shouldn’t be surprised by the stuff you find in this damn house. The sludge was black and thick, and all over your shoes. Whatever. No tube here. Who gives a shit.
+FAUST: Moimoi…
+
+MOIRA: …
+FAUST: …Moira?
+MOIRA: Do you think this is all some sort of karmic punishment?
+FAUST: Haaah?
+FAUST: Since when do you believe in any of that stuff?
+FAUST: Leave that to Marmar…
+MOIRA: Sorry…it’s just.
+MOIRA: –! 
+
+; transition: void
+@goto Intermission
+
+@stop

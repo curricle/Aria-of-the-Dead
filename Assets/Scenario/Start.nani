@@ -1,7 +1,16 @@
+@novel
+
 You can still taste blood. 
+
 It reminds you of a poll that went around the rookies’ wing a few weeks ago.
+
+@back CG/Opening
+
 Does blood taste good? 
 Yes or no?
+
+@adventure
+
 It went around on a little piece of paper, stuffed into shoe lockers and gun holsters, until it made its way to your desk.
 Does blood taste good? 
 You crinkled your nose at the question. 
@@ -78,5 +87,7 @@ It understands this.
 It does not like your resolve.
 
 ; TITLE SCREEN: étude 
+
+@adventure 
 
 @stop

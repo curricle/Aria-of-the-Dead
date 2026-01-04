@@ -149,6 +149,138 @@ MonoBehaviour:
     - name: Start
       pathPrefix: Scripts
       guid: b3b9313ef45aebb4cb59af4eb4c4ec5c
+    - name: House
+      pathPrefix: Scripts
+      guid: a57ee6826cfe7a34db78fd22df894b88
+    - name: Hallway
+      pathPrefix: Scripts
+      guid: 731f48f3cd6c9c14383b7b710c6191d8
+    - name: Entryway
+      pathPrefix: Scripts
+      guid: 0693371e0ec9be34788e111ef101e5f7
+    - name: DressingRoom
+      pathPrefix: Scripts
+      guid: e5ff43d00f14fdc4ab6898bf23a1f22c
+    - name: Bedroom
+      pathPrefix: Scripts
+      guid: 55874ea8ea5a2814eab12e95e0186d2b
+    - name: Theater
+      pathPrefix: Scripts
+      guid: 2fd57cd5168b1194d9adf6edf4f44ffc
+    - name: Intermission
+      pathPrefix: Scripts
+      guid: de2c83dea89005a4193f7197e611924f
+    - name: Ending
+      pathPrefix: Scripts
+      guid: a3479b70253011b4da18c4da72074c8e
+    - name: Items/Test/Dog
+      pathPrefix: Scripts
+      guid: 582a5653d29673247bd4ecaa090e726b
+    - name: Items/Test/BookTest
+      pathPrefix: Scripts
+      guid: e778ed04482419d438cb4354fafe2d36
+    - name: Items/House/House
+      pathPrefix: Scripts
+      guid: e011f0396c6906f4389344b00d1dc419
+    - name: Items/House/Windows
+      pathPrefix: Scripts
+      guid: 13af3ec21d14a9e46969df7d39895e88
+    - name: Items/House/Plants
+      pathPrefix: Scripts
+      guid: d882f94374109fb439998de49fedc3db
+    - name: Items/House/Door
+      pathPrefix: Scripts
+      guid: 7830262afe556224991f209d637002ab
+    - name: Items/Entryway/RotaryPhone
+      pathPrefix: Scripts
+      guid: b870cc99eeddb0e40b3b50318b6a3c53
+    - name: Items/Entryway/Debris
+      pathPrefix: Scripts
+      guid: 34236ad59cd155e4492fa2e13d41a2b3
+    - name: Items/Entryway/Chairs
+      pathPrefix: Scripts
+      guid: 09e8f77c35e29964b9192a757a1751c0
+    - name: Items/Entryway/Lamp
+      pathPrefix: Scripts
+      guid: 0a24a14f78bd3a64b93863b197a779c9
+    - name: Items/Entryway/Rug
+      pathPrefix: Scripts
+      guid: 74e779332780c9d4cb05383116e35969
+    - name: Items/Entryway/Blood
+      pathPrefix: Scripts
+      guid: 13f2a01d3cb48f64fb8cd3429ddb4cca
+    - name: Items/Hallway/Portraits
+      pathPrefix: Scripts
+      guid: dc561014893aa7c44ad3cab79e929282
+    - name: Items/Hallway/ThePortrait
+      pathPrefix: Scripts
+      guid: 801b3e7e5ee01104084c4e8adfe143cb
+    - name: Items/Hallway/Clock
+      pathPrefix: Scripts
+      guid: c1ce965fc3ecb3e4fa2032f1e6b14f72
+    - name: Items/Hallway/Shelf
+      pathPrefix: Scripts
+      guid: ba8da5b47a2f24a4c8b718ec43262863
+    - name: Items/Hallway/Scratches
+      pathPrefix: Scripts
+      guid: 768aa47bc57c2674b82d1854b7660b6b
+    - name: Items/DressingRoom/Dress
+      pathPrefix: Scripts
+      guid: 0553b0662a0b0fd4a953d809dd7c002b
+    - name: Items/DressingRoom/StarEarrings
+      pathPrefix: Scripts
+      guid: f96776e2232bf2a46ae607c99a38cba5
+    - name: Items/DressingRoom/ThighBand
+      pathPrefix: Scripts
+      guid: b88584e4a415d764785d3bb11205da00
+    - name: Items/DressingRoom/Makeup
+      pathPrefix: Scripts
+      guid: 615f3b5693c76d541aeb992347812bc9
+    - name: Items/DressingRoom/MoonEarrings
+      pathPrefix: Scripts
+      guid: e2a7f3c4396d8d24198fce142d41f35c
+    - name: Items/DressingRoom/Vanity
+      pathPrefix: Scripts
+      guid: d56be6b96ed4f33449fa4fa94022943d
+    - name: Items/DressingRoom/RotaryPhone
+      pathPrefix: Scripts
+      guid: d71dc1777992ee64a9ef08cb6d8746b9
+    - name: Items/DressingRoom/Mirrors
+      pathPrefix: Scripts
+      guid: 32652aa9dcd95f749a1392ed8918e921
+    - name: Items/DressingRoom/SunEarring
+      pathPrefix: Scripts
+      guid: 9a560a4393a26d6459b3e714fba1f06a
+    - name: Items/Bedroom/RotaryPhone
+      pathPrefix: Scripts
+      guid: 69e9fd7452c17dc47b0aae8d63dc4c18
+    - name: Items/Bedroom/Sludge
+      pathPrefix: Scripts
+      guid: fd9172403aee1a94f9ea6f8e17977fc5
+    - name: Items/Bedroom/Bed
+      pathPrefix: Scripts
+      guid: 8f8274497b5f53349a4fb1730c50932f
+    - name: Items/Bedroom/Scrap
+      pathPrefix: Scripts
+      guid: a89f6e73bbc815f42bc90511c10b1979
+    - name: Items/Bedroom/SheetMusic
+      pathPrefix: Scripts
+      guid: a139922ea51b18043ab95367bb737a06
+    - name: Items/Theater/RotaryPhone
+      pathPrefix: Scripts
+      guid: 3a637babd2b667f43a18c04588c12eff
+    - name: Items/Theater/Scales
+      pathPrefix: Scripts
+      guid: d0300cb2095e42545b6ee2475d3fe62c
+    - name: Items/Theater/Blood
+      pathPrefix: Scripts
+      guid: ca0bab7bc1986bf47a54947952dd678a
+    - name: Items/Theater/Microphone
+      pathPrefix: Scripts
+      guid: 67e7fc3a276f89c47ba86e6742cbfbb1
+    - name: Items/Theater/Birdcage
+      pathPrefix: Scripts
+      guid: 37b9980e7b43adf4dbde3b96dd5c4df5
   - Id: Characters/8081ae60-d59e-4fd4-8eec-6eb6ea1eba9e
     Resources:
     - name: neutral
@@ -176,11 +308,6 @@ MonoBehaviour:
     - name: CG/Opening
       pathPrefix: Backgrounds/MainBackground
       guid: 69089f62895ea34408b6b8b3456c1ce7
-  - Id: Backgrounds/ccb680f5-6331-47aa-85a8-ef4bc3c72425
-    Resources:
-    - name: Bedroom
-      pathPrefix: Backgrounds/SceneBackgrounds
-      guid: 7a9e9ff9672060740b3602a75d8f12f7
   - Id: CharacterAvatars
     Resources:
     - name: side

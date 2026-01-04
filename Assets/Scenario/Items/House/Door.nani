@@ -1,0 +1,32 @@
+# 1
+@novel
+Lord. This door is huge.
+@adventure
+
+# 2
+@novel
+Is it locked? Ah…Nope, okay.
+@adventure
+
+# 3
+@novel
+You hope Waste Management doesn’t bang it up too much…
+
+This house has seen better days. 
+It’s a polite assessment. Cordial.
+The house is a relic of the old order, an exorcist’s pipe dream. 
+The report said it belonged to their priestess.
+Exorcists, priests, all of it was…so…
+
+Old-fashioned? Outdated. 
+Gauche.
+
+# 4
+@novel
+Proceed?
+@choice "Yes" goto:Entryway
+@choice "No" 
+@stop
+@adventure
+
+@stop

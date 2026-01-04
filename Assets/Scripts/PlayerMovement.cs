@@ -1,24 +1,69 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
-    private float moveSpeed = 5f;
+    [SerializeField] private float moveSpeed = 5f;
     private Rigidbody2D rb;
+    private Rigidbody2D enviro;
+    private Transform playerTransform;
+    private SpriteRenderer playerSprite;
     private Vector2 moveInput;
+    public bool isInputBlocked;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;    
+    }
+
+    private void OnDisable() {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        playerTransform = GetComponent<Transform>();
+        playerSprite = GetComponent<SpriteRenderer>();
+        isInputBlocked = true;
     }
 
     // Update is called once per frame
     void Update()
     {
-        rb.linearVelocity = moveInput * moveSpeed;
+        enviro.linearVelocity = moveInput * moveSpeed;
     }
 
     public void Move(InputAction.CallbackContext context) {
-        moveInput = context.ReadValue<Vector2>();
+        if(!isInputBlocked){
+            if(enviro) {
+                moveInput = context.ReadValue<Vector2>() * -1; 
+                FlipPlayer();
+            }
+            else {
+                GetEnvironment();
+            }
+        }
+    }
+
+    void FlipPlayer() {
+        if(moveInput.x > 0) {
+            playerSprite.flipX = true;
+        }
+        if(moveInput.x < 0) {
+           playerSprite.flipX = false;
+        }
+    }
+
+    void GetEnvironment() {
+        enviro =  GameObject.FindWithTag("Environment").GetComponent<Rigidbody2D>();
+        Debug.Log("Environment got!");
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode sceneMode) {
+        GetEnvironment();
     }
 }

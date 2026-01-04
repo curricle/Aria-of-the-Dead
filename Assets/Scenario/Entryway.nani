@@ -1,0 +1,26 @@
+# Start
+@novel
+; add black bg
+@load scene:Entryway
+
+@adventure
+
+# End
+@novel
+
+MOIRA: …Faust?
+MOIRA: …
+MOIRA: Guess she took the hint.
+MOIRA: …
+MOIRA: Okay. So…this over here…tch. 
+MOIRA: Whoever mapped this place did a terrible job. 
+
+Time is of the essence. You know this. You understand this. 
+And yet…
+Your fingertips brush against the wall until you reach a door.
+
+MOIRA: Maybe here?
+
+@goto DressingRoom
+
+@stop

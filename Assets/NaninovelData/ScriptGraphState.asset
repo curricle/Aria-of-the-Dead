@@ -1,0 +1,330 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e98aa4b58b11e9d4ca9dd8a4bf7bb71d, type: 3}
+  m_Name: ScriptGraphState
+  m_EditorClassIdentifier: Elringus.Naninovel.Editor::Naninovel.ScriptGraphState
+  NodesState:
+  - scriptGuid: b3b9313ef45aebb4cb59af4eb4c4ec5c
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 75
+      height: 77
+  - scriptGuid: a57ee6826cfe7a34db78fd22df894b88
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 77
+      width: 83
+      height: 77
+  - scriptGuid: 731f48f3cd6c9c14383b7b710c6191d8
+    position:
+      serializedVersion: 2
+      x: 872
+      y: 208
+      width: 91
+      height: 101
+  - scriptGuid: 0693371e0ec9be34788e111ef101e5f7
+    position:
+      serializedVersion: 2
+      x: 394
+      y: 230
+      width: 153
+      height: 149
+  - scriptGuid: e5ff43d00f14fdc4ab6898bf23a1f22c
+    position:
+      serializedVersion: 2
+      x: 693
+      y: 209
+      width: 147
+      height: 149
+  - scriptGuid: 55874ea8ea5a2814eab12e95e0186d2b
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 380
+      width: 98
+      height: 101
+  - scriptGuid: 2fd57cd5168b1194d9adf6edf4f44ffc
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 457
+      width: 91
+      height: 101
+  - scriptGuid: de2c83dea89005a4193f7197e611924f
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 534
+      width: 118
+      height: 125
+  - scriptGuid: a3479b70253011b4da18c4da72074c8e
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 611
+      width: 85
+      height: 77
+  - scriptGuid: 582a5653d29673247bd4ecaa090e726b
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 688
+      width: 134
+      height: 149
+  - scriptGuid: e778ed04482419d438cb4354fafe2d36
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 837
+      width: 163
+      height: 149
+  - scriptGuid: e011f0396c6906f4389344b00d1dc419
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 986
+      width: 159
+      height: 149
+  - scriptGuid: 13af3ec21d14a9e46969df7d39895e88
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 1135
+      width: 174
+      height: 149
+  - scriptGuid: d882f94374109fb439998de49fedc3db
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 1284
+      width: 157
+      height: 149
+  - scriptGuid: 7830262afe556224991f209d637002ab
+    position:
+      serializedVersion: 2
+      x: 196
+      y: 229
+      width: 164
+      height: 197
+  - scriptGuid: b870cc99eeddb0e40b3b50318b6a3c53
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 1433
+      width: 212
+      height: 173
+  - scriptGuid: 34236ad59cd155e4492fa2e13d41a2b3
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 1606
+      width: 175
+      height: 149
+  - scriptGuid: 09e8f77c35e29964b9192a757a1751c0
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 1755
+      width: 175
+      height: 125
+  - scriptGuid: 0a24a14f78bd3a64b93863b197a779c9
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 1880
+      width: 170
+      height: 149
+  - scriptGuid: 74e779332780c9d4cb05383116e35969
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 2029
+      width: 160
+      height: 101
+  - scriptGuid: 13f2a01d3cb48f64fb8cd3429ddb4cca
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 2130
+      width: 171
+      height: 101
+  - scriptGuid: dc561014893aa7c44ad3cab79e929282
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 2231
+      width: 178
+      height: 149
+  - scriptGuid: 801b3e7e5ee01104084c4e8adfe143cb
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 2380
+      width: 194
+      height: 125
+  - scriptGuid: c1ce965fc3ecb3e4fa2032f1e6b14f72
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 2505
+      width: 162
+      height: 125
+  - scriptGuid: ba8da5b47a2f24a4c8b718ec43262863
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 2630
+      width: 159
+      height: 149
+  - scriptGuid: 768aa47bc57c2674b82d1854b7660b6b
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 2779
+      width: 187
+      height: 149
+  - scriptGuid: 0553b0662a0b0fd4a953d809dd7c002b
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 2928
+      width: 201
+      height: 149
+  - scriptGuid: f96776e2232bf2a46ae607c99a38cba5
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 3077
+      width: 238
+      height: 125
+  - scriptGuid: b88584e4a415d764785d3bb11205da00
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 3202
+      width: 229
+      height: 173
+  - scriptGuid: 615f3b5693c76d541aeb992347812bc9
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 3375
+      width: 213
+      height: 125
+  - scriptGuid: e2a7f3c4396d8d24198fce142d41f35c
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 3500
+      width: 246
+      height: 125
+  - scriptGuid: d56be6b96ed4f33449fa4fa94022943d
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 3625
+      width: 203
+      height: 125
+  - scriptGuid: d71dc1777992ee64a9ef08cb6d8746b9
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 3750
+      width: 241
+      height: 125
+  - scriptGuid: 32652aa9dcd95f749a1392ed8918e921
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 3875
+      width: 208
+      height: 125
+  - scriptGuid: 9a560a4393a26d6459b3e714fba1f06a
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 4000
+      width: 230
+      height: 125
+  - scriptGuid: 69e9fd7452c17dc47b0aae8d63dc4c18
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 211
+      height: 173
+  - scriptGuid: fd9172403aee1a94f9ea6f8e17977fc5
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 177
+      height: 125
+  - scriptGuid: 8f8274497b5f53349a4fb1730c50932f
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 160
+      height: 173
+  - scriptGuid: a89f6e73bbc815f42bc90511c10b1979
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 170
+      height: 125
+  - scriptGuid: a139922ea51b18043ab95367bb737a06
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 204
+      height: 125
+  - scriptGuid: 3a637babd2b667f43a18c04588c12eff
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 203
+      height: 125
+  - scriptGuid: d0300cb2095e42545b6ee2475d3fe62c
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 167
+      height: 125
+  - scriptGuid: ca0bab7bc1986bf47a54947952dd678a
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 163
+      height: 125
+  - scriptGuid: 67e7fc3a276f89c47ba86e6742cbfbb1
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 197
+      height: 125
+  - scriptGuid: 37b9980e7b43adf4dbde3b96dd5c4df5
+    position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 180
+      height: 125

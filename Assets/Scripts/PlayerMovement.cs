@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D enviro;
     private Transform playerTransform;
     private SpriteRenderer playerSprite;
+    private Animator playerAnimator;
     private Vector2 moveInput;
     public bool isInputBlocked;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -29,6 +30,7 @@ public class PlayerMovement : MonoBehaviour
         playerTransform = GetComponent<Transform>();
         playerSprite = GetComponent<SpriteRenderer>();
         isInputBlocked = true;
+        playerAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -42,6 +44,7 @@ public class PlayerMovement : MonoBehaviour
             if(enviro) {
                 moveInput = context.ReadValue<Vector2>() * -1; 
                 FlipPlayer();
+                SetAnimState();
             }
             else {
                 GetEnvironment();
@@ -56,6 +59,15 @@ public class PlayerMovement : MonoBehaviour
         if(moveInput.x < 0) {
            playerSprite.flipX = false;
         }
+    }
+
+    void SetAnimState() {
+        var tempMoveX = moveInput.x;
+        if(tempMoveX < 0) {
+            tempMoveX *= -1;
+        }
+        playerAnimator.SetInteger("MoveX", (int)tempMoveX);
+        playerAnimator.SetInteger("MoveY", (int)moveInput.y * -1);
     }
 
     void GetEnvironment() {
